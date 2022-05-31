@@ -26,4 +26,4 @@
 <p>4.1.	Появление ИТ <A HREF="https://studopedia.net/3_48952_istoriya-vozniknoveniya-informatsionnih-tehnologiy.html">https://studopedia.net/</a>
 <p>4.2.	Развитие ИТ <A HREF="https://ya-znau.ru/znaniya/zn/222">https://ya-znau.ru</a>
 <p>4.3.	Этапы <A HREF="https://studopedia.ru/19_420671_etapi-vozniknoveniya-i-razvitiya-informatsionnoy-tehnologii.html">https://studopedia.ru/</a>
-<p> <A HREF="https://4556qwerrt.github.io/ubiquitous-umbrella/">Вернуться на главную.</a>
+<p> <A HREF="https://beeemba.github.io/verbose-broccoli/">Вернуться на главную.</a>
