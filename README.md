@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <HTML>
 <head> </head> 
 <TITLE>Обзор ресурсов интернет</TITLE>
